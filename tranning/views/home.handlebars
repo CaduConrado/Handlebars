@@ -1,0 +1,13 @@
+<div class="banner">
+    <h1>Minha Loja, a melhor loja do mundo!</h1>
+</div>
+
+<h1>Produtos: </h1>
+
+{{#each products}}
+    <div class="product-container">
+        {{> product}}
+        <a href="/product?data={{encodeURIComponent (json this)}}">Ver produto</a>
+    </div>
+    
+{{/each}}

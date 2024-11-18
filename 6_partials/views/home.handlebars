@@ -1,0 +1,7 @@
+<h1>Hello world, Handlebars!</h1>
+{{#if auth}}
+    <p>Hello, {{user.name}}, you are able to apply.</p>
+    <p>Clique <a href="/dashboard">here</a> to send your documentation.</p>
+    {{else}}
+        <p>Hello, {{user.name}}, you can not get you license because you have only {{user.age}}</p>
+{{/if}}

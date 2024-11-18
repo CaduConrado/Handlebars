@@ -1,0 +1,21 @@
+.banner {
+    font-family: 'Shadows Into Light', cursive;
+    color: #ff7f50;
+    font-family: 'Arial', sans-serif;
+    font-size: 40px;
+  }
+body {
+    background-color: cyan; /* ou #00FFFF, rgb(0, 255, 255) */
+    text-align: center;  /* Centraliza o conteúdo horizontalmente */       
+    margin: 100px
+}
+
+.product-container {
+    background-color: white; /* Fundo branco */
+    padding: 20px;            /* Espaçamento interno */
+    border-radius: 8px;       /* Bordas arredondadas (opcional) */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave (opcional) */
+    max-width: 400px;         /* Largura máxima (opcional) */
+    margin: 20px auto;        /* Margem automática para centralizar */
+  }
+  
