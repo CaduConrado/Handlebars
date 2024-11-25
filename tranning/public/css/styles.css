@@ -10,7 +10,7 @@ body {
     margin: 100px
 }
 
-.product-container {
+.product-container, .prodPage{
     background-color: white; /* Fundo branco */
     padding: 20px;            /* Espaçamento interno */
     border-radius: 8px;       /* Bordas arredondadas (opcional) */
