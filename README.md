@@ -47,9 +47,9 @@ npm start
 
 ## Exemplo (Example): ##
 
-![Página Inicial](./assets/minha_loja_1.png)
+![Página Inicial](https://github.com/CaduConrado/Handlebars/blob/main/assets/minha_loja_1.jpeg)
 
-![Detalhes do Produto](./assets/minha_loja_2.png)
+![Detalhes do Produto](https://github.com/CaduConrado/Handlebars/blob/main/assets/minha_loja_2.jpeg)
 
 
 ## Estrutura do Projeto (Project Structure) ##
