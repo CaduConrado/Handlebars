@@ -6,7 +6,12 @@
 
 **English**: In this repository I present the main concepts of using Handlebars, a package that provides the possibility of using layouts in your frontend. As most of my projects are aimed at **Backend** development, this is no different, I seek to present how **Backend** works with Handlebars.
 
+## Tecnologias (Technologies) ##
 
+- **Node.js**
+- **Express**
+- **Express-Handlebars**
+- **Nodemon**
 
 ## Instalação (Installation) ##
 
@@ -15,8 +20,8 @@ Certifique-se de ter o Node.js instalado em sua máquina. Clone o repositório e
 Make sure you have Node.js installed on your machine. Clone the repository and install the dependencies with the command below:
 
 ```bash
-git clone https://github.com/CaduConrado/Handlebars
 cd seu_repositorio
+git clone https://github.com/CaduConrado/Handlebars
 npm install
 ```
 
